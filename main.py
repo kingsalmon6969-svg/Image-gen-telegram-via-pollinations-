@@ -37,7 +37,7 @@ def keep_alive():
 MODELS = {
     'Flux': 'flux',
     'Imagen 4': 'imagen-4',
-    'Klein (Creative)': 'klein',
+    'Klein (HD)': 'klein',
     'Z-Image (Turbo)': 'zimage'
 }
 
